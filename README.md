@@ -14,3 +14,6 @@ parseAndStoreTokens is used to read the data from flat file and stores the token
 The  ***Build.jpg*** file contains screenshot after successfull build
 The ***Run_1.jpg*** file is screenshot once the executable file is run. It asks for the input filename to be processed.
 The ***OutputAfterFileInput.jpg*** contains the actual output. After the input file is processed it displays the balanced output.
+
+
+***VS_ConsoleApp_Windows.exe*** is the executable file
